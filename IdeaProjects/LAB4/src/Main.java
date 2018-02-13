@@ -1,6 +1,7 @@
 import java.util.*;
 import java.lang.String;
 public class Main {
+    //THIS IS AN UPDATE TO ESTABLISH A DIFFERENT VERSION
     Scanner scnr = new Scanner(System.in);
     String input = scnr.nextLine();
 
